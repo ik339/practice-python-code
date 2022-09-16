@@ -1,2 +1,2 @@
 # NTU-python
-own code created when studying the ntu python online course
+own code created and practised when studying the ntu python online course .(from lectures)
